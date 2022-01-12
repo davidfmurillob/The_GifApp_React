@@ -2,7 +2,7 @@ import React from 'react'
 
 export const GifGridItem = ({url, id, title}) => {
 
-console.log({url,title,id});
+// console.log({url,title,id});
 
     return (
         <div className='card animate__animated animate__fadeInLeft' >
